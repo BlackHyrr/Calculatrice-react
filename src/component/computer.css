@@ -1,0 +1,11 @@
+.computer__wrapper {
+    height: 45px;
+    width: 90%;
+    margin-bottom: 5px;
+    padding: 3px 13px;
+    border: 1px solid #f9f9f9;
+    border-radius: 5px ;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
